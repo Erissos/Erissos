@@ -1,53 +1,65 @@
-<!-- Banner -->
-![banner](https://raw.githubusercontent.com/adem/adem/main/banner.png)
+<!-- banner: repo köküne banner.png ekleyin -->
+![banner](./banner.png)
 
-# adem
-**Full-stack developer** focused on clean architecture, game-ready art pipelines, and cultural storytelling.
-
-**Location:** İstanbul, Türkiye · **Email:** hello@yourdomain.com · **Website:** https://yourdomain.com
-
----
-
-## About Me
-I build web apps and visuals that blend classic European techniques with Turkish cultural motifs. Currently focused on game UI and educational illustrations.
+# Adem Mertkan Durmaz
+**System Administrator | Game Developer | Server & Anti-cheat Engineer**  
+Şişli, İstanbul, Türkiye · **Email:** ademmertkan01@gmail.com · **Website:** https://turkish.systems
 
 ---
 
-## Featured Projects
-- **Project A** — Modern educational game UI; React + Canvas.  
-  https://github.com/adem/project-a
-- **Project B** — Procedural illustration toolkit; Node + SVG.  
-  https://github.com/adem/project-b
-- **Project C** — Learning platform prototype; Next.js + Tailwind.  
-  https://github.com/adem/project-c
+## Hakkımda
+Serve as a System Administrator at Turkish Systems, focusing on Windows Server management and support.  
+Develop engaging games using Unity and C#, enhancing user experience and interaction.  
+Oversee social media and marketing initiatives to promote company projects and increase visibility.
+
+Bunca zaman yaptıklarım:
+- Windows Server yönetimi, destek ve siber güvenlik uygulamaları.
+- Unity ve C# ile oyun geliştirme; oyun mekanikleri, optimizasyon ve etkileşim tasarımı.
+- Sunucu yönetimi, eklenti geliştirme ve anti-hile sistemleri; platform için 5 özgün eklenti geliştirdim.
+- TurkishMC yönetimi sırasında web sitesi geliştirme ve ödeme sistemi entegrasyonları.
+- Sosyal medya ve pazarlama stratejileri ile topluluk büyütme ve görünürlük artırma.
+
+Freelance olarak Bionluk platformunda yazılım geliştirme, Minecraft sunucuları ve anti-hile hizmetleri sağlıyorum. Sunucu yönetimi, eklenti özelleştirme ve 3D model/tasarım işleri yapıyorum.
 
 ---
 
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+## Öne Çıkan Projeler
+- **TurkishMC** — Sunucu altyapısı, anti-hile sistemleri ve yönetim.  
+  https://github.com/ademmertkan01/TurkishMC
+- **Unity Game Prototype** — C# ile geliştirilmiş oyun prototipi; input, UI ve optimizasyon.  
+  https://github.com/ademmertkan01/unity-game-prototype
+- **Server Tools** — Windows Server yönetimi ve otomasyon skriptleri.  
+  https://github.com/ademmertkan01/server-tools
 
 ---
 
-## Currently Learning
-- Advanced etching-to-digital pipelines
-- WebGL optimizations for 2D game art
+## Tech Stack ve Araçlar
+**Main:** Java; C#; Unity; Windows Server; Adobe (Photoshop, Illustrator, vs.); SQL  
+**Diğer:** Networking; Anti-cheat design; Web ödeme entegrasyonları; Pazarlama stratejileri
+
+**Rozetler**
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?logo=c%23&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
+
+**GitHub İstatistikleri**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademmertkan01&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=ademmertkan01&show_icons=true&count_private=true)
 
 ---
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adem&hide=html,css)
-![Stats](https://github-readme-stats.vercel.app/api?username=adem&show_icons=true)
+## Eğitim ve Öğrenme
+**İstanbul Galata Üniversitesi** — Associate's degree, Game Development and Programming (Sep 2025 - Jun 2027)  
+Geliştirdiğim konular: oyun kodlama, optimizasyon, yaratıcı problem çözme.
+
+**Şu an öğreniyorum:** C# & Unity
 
 ---
 
-## Contact
-- **Email:** hello@yourdomain.com
-- **LinkedIn:** https://linkedin.com/in/yourprofile
-- **Twitter:** https://twitter.com/yourprofile
-
----
-
-*Thanks for checking out my profile.*
+## İletişim
+**LinkedIn:** https://www.linkedin.com/in/adem-mertkan-durmaz-683667251  
+**Instagram:** https://www.instagram.com/sys.mertkan  
+**Website:** https://turkish.systems  
+**Email:** ademmertkan01@gmail.com

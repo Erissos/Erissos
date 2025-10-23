@@ -79,16 +79,8 @@
 ---
 
 ### 🧠 Fun Fact
-> “A creative mind never stops debugging reality.”  
+> “Öğren, Oluştur, Paylaş.”  
 > — *Adem Mertkan Durmaz*
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ademmertkan01&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademmertkan01&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
